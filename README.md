@@ -19,7 +19,7 @@ The system follows clean code principles and high cohesion by separating respons
 ## 🚀 How to Run the Project
 1. Clone this repository:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/andre3tcss/order-shipping-service
    ```
 2. Open the project in your favorite IDE (IntelliJ IDEA, STS, etc.).
 3. Run the application as a Spring Boot App.
