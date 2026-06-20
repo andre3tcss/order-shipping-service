@@ -25,6 +25,6 @@ public class OrderShippingDeviceApplication implements CommandLineRunner {
 		double totalValue = orderService.total(order);
 
 		System.out.println("Pedido código: " + order.getCode());
-		System.out.println("Valor total: R$ " + orderService.total(order));
+		System.out.println("Valor total: R$ " + totalValue);
 	}
 }
